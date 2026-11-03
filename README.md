@@ -1,6 +1,6 @@
 # Swiss AI Trust Tag (SATT)
 
-Independent certification and benchmarking for trustworthy AI. Based in Zürich, Switzerland.
+Sovereign certification and benchmarking for trustworthy AI. Based in Zürich, Switzerland.
 
 **Trust is computed, not claimed.**
 
@@ -10,7 +10,7 @@ The product site is launching. [swissaitrusttag.ch](https://swissaitrusttag.ch) 
 
 ## What SATT is
 
-SATT is an independent organisation in Zürich. It provides certification and benchmarking for trustworthy AI. A published result follows from a stated method. Clarity takes precedence over marketing language.
+SATT is a certification and benchmarking organisation in Zürich, Switzerland. It provides certification and benchmarking for trustworthy AI. A published result follows from a stated method. Clarity takes precedence over marketing language.
 
 Benchmark governance stays separate from the systems under test.
 
@@ -26,7 +26,7 @@ SATT is a sovereign audit and verification framework for frontier AI. An institu
 
 ### Neutral benchmark governance
 
-Benchmarks are governed independently of the systems they measure. Methods are stated in advance of the score. Trust is computed, not claimed.
+Benchmarks are governed separately from the systems they measure. Methods are stated in advance of the score. Trust is computed, not claimed.
 
 ## Links
 
